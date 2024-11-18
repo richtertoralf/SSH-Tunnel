@@ -11,7 +11,7 @@ Szenario
 - **Ziel:** Zugriff auf die Weboberfläche des Routers mit der IP 192.168.178.1, der auf Port 80 läuft.
 - **Problem:** Der Router ist nur aus dem Heimnetz erreichbar.
 - **Lösung:** Nutzt ein Gerät im Heimnetz (z. B. einen Raspberry Pi), das ihr über den VPN-Tunnel erreichen könnt, um einen SSH-Tunnel aufzubauen.
-- 
+
 ### Vorgehen
 #### SSH-Tunnel aufbauen
 Verbindet euch per SSH via VPN zu einem Gerät im Heimnetz (z. B. der Raspberry Pi mit der WireGuard-IP 172.16.90.15) und leitet einen lokalen Port zu Port 80 des Routers weiter.
