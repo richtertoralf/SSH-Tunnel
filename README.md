@@ -2,7 +2,7 @@
 Zugriff auf Resourcen im Heimnetzwerk aus der Ferne per SSH-Tunnel
 
 ## SSH-Tunnel: Zugriff auf ein Heimnetzwerk aus der Ferne
-Ihr möchtet aus der Ferne auf ein Gerät in eurem Heimnetzwerk zugreifen, das aus dem Internet nicht direkt erreichbar ist – z. B. die Weboberfläche eines Routers (FritzBox). Mit einem SSH-Tunnel ist das möglich.
+Ihr möchtet aus der Ferne auf ein Gerät in eurem Heimnetzwerk zugreifen, das aus dem Internet nicht direkt erreichbar ist – z. B. die Weboberfläche eines Routers (FritzBox). Mit einem SSH-Tunnel ist das möglich.  
 Voraussetzung: Ihr benötigt ein anderes Gerät in eurem Heimnetzwerk (z. B. einen Raspberry Pi), das ihr über einen separaten VPN-Tunnel wie WireGuard erreichen könnt.
 
 **Beispiel:**
